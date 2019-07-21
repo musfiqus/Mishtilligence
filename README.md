@@ -1,4 +1,4 @@
-# TF Lite Android App
+# Mishtilligence based on TF Lite Android App
 ## Screenshot
 ![alt text](https://raw.githubusercontent.com/musfiqus/Mishtilligence/master/photo_2019-07-22_04-21-32.jpg "Screenshot") <br>
 ## Building from Source with Bazel
