@@ -1,5 +1,6 @@
 # TF Lite Android App
-
+## Screenshot
+![alt text](https://raw.githubusercontent.com/musfiqus/Mishtilligence/master/photo_2019-07-22_04-21-32.jpg "Screenshot") <br>
 ## Building from Source with Bazel
 
 1. Follow the [Bazel steps for the TF Demo App](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android#bazel):
